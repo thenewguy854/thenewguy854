@@ -1,4 +1,4 @@
-h1 Hi 👋, I'm Chuck Husak</h1>
+<h1> Hi 👋, I'm Chuck Husak</h1>
 <h3 align="center">A passionate Software engineer that specializes in Machine Learning projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenewguy854&label=Profile%20views&color=0e75b6&style=flat" alt="thenewguy854" /> </p>
