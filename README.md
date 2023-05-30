@@ -1,6 +1,9 @@
-<h1> Hi 👋, I'm Chuck Husak</h1>
-<h3 align="center">A passionate Software engineer that specializes in Machine Learning projects.</h3>
+![logo](https://github.com/thenewguy854/thenewguy854/blob/885a9db7efec027bffd3b65503cdf763d160b2dc/project%204%20gif.gif) 
 
+<h1 align="center">  Hi 👋, I'm Chuck Husak</h1>
+<h3 align="center"> A passionate Software engineer that specializes in Machine Learning projects.</h3>
+
+<img align="right" width="200" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFkMTFkNzY5YjkxNTc5ZDYzZWE2MTM4ZjBkNWFiNGE3OTQwZmI2YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/PjJ1cLHqLEveXysGDB/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenewguy854&label=Profile%20views&color=0e75b6&style=flat" alt="thenewguy854" /> </p>
 
 - 🔭 I’m currently working on [Geospatial location webscraper](https://github.com/thenewguy854/Geospatial-Location-webscraper)
