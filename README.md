@@ -3,7 +3,7 @@
 <h1 align="center">  Hi 👋, I'm Chuck Husak</h1>
 <h3 align="center"> A passionate Software engineer that specializes in Machine Learning projects.</h3>
 
-<img align="right" width="200" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFkMTFkNzY5YjkxNTc5ZDYzZWE2MTM4ZjBkNWFiNGE3OTQwZmI2YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/PjJ1cLHqLEveXysGDB/giphy.gif">
+<img align="right" width="260" height="260" src="https://github.com/thenewguy854/thenewguy854/blob/d13ba6352402097c7d9a4ae99bfeb853e6e996dd/profile%20gif2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenewguy854&label=Profile%20views&color=0e75b6&style=flat" alt="thenewguy854" /> </p>
 
 - 🔭 I’m currently working on [Geospatial location webscraper](https://github.com/thenewguy854/Geospatial-Location-webscraper)
